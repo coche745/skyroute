@@ -3,7 +3,6 @@ from vc_metro import vc_metro
 from vc_landmarks import vc_landmarks
 from landmark_choices import landmark_choices
 
-# Build your program below:
 employee_ids = ['11111', '22222', '33333', '44444', '55555', '66666', '77777', '88888', '99999', '00000']
 landmark_string = ''
 stations_under_construction = []

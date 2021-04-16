@@ -20,7 +20,8 @@ Vancouver’s public metro system has asked me to help create a program to help 
 + Once they have seen a route, commuters are asked whether or not they want to see another route.
 + If no other route is requested, Skyroute thanks the commuter for using SkyRoute.
 ## Setup
-To run this project, install it locally using git
+To run this project, install it locally using git and run the skyroute.py file.
 + git clone https://github.com/coche745/mysterious-organism
+
 ## Status
 Project is: finished
